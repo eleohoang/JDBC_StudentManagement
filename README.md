@@ -1,7 +1,7 @@
 # JDBC_StudentManagement
 Management student (create, update, get, list, delete) using JDBC in Java
 
-Step 1: Let create a Student table MySQL student_management database: 
+Step 1: Let create a Student table in MySQL student_management database: 
 
 CREATE TABLE Student(
 
