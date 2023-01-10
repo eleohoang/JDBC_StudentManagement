@@ -25,9 +25,11 @@ Step 2: Call Main.java class to choose option:
     System.out.println("3 - List all students");	
     System.out.println("4 - Update for student");	
     System.out.println("5 - Delete for student");
-    
+   
+**Option 1: Create a student**
 ![choose_option](https://user-images.githubusercontent.com/78299978/209236503-1bb0f155-7b76-4ed6-9e7c-55fd17f27827.png "Options")	
 
+**Option 3: List all students**
 ![choose_option](https://user-images.githubusercontent.com/78299978/209236502-1e97f9e2-cbe7-44c7-9566-ecf51f9128fa.png "Options")
 
 
