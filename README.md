@@ -14,6 +14,7 @@ CREATE TABLE Student(
    PRIMARY KEY (ID)
    
 );
+![create student](https://user-images.githubusercontent.com/78299978/209236497-b9cc8055-1615-4b93-aaff-174867d94c17.png "Student")
 
 https://user-images.githubusercontent.com/78299978/209236497-b9cc8055-1615-4b93-aaff-174867d94c17.png
 
